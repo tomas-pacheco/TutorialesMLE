@@ -8,3 +8,4 @@ Contenidos:
 - Tutorial 1: Introducción a Python
 - Tutorial 2: Web Scraping y manejo de APIs (códigos para Jupyter Notebook y Spyder)
 - Tutorial 3: introducción a Pandas, Matplotlib y Selenium
+- Tutorial 4: regresión y clasificación
