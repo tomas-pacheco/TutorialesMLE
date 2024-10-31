@@ -9,3 +9,5 @@ Contenidos:
 - Tutorial 2: Web Scraping y manejo de APIs (códigos para Jupyter Notebook y Spyder)
 - Tutorial 3: introducción a Pandas, Matplotlib y Selenium
 - Tutorial 4: regresión y clasificación
+- Tutorial 5: K-fold cross validation
+- Tutorial 6: Ridge y Lasso
