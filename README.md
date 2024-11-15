@@ -2,7 +2,7 @@
 
 En este repositorio se encontrará el material de las clases tutoriales del curso Machine Learning para Economistas dictado en la Universidad de San Andrés. 
 
-El sitio web del curso es el siguiente: https://bigdataudesa.weebly.com/
+El sitio web del curso es: https://bigdataudesa.weebly.com/
 
 Contenidos:
 - Tutorial 1: Introducción a Python
@@ -11,3 +11,4 @@ Contenidos:
 - Tutorial 4: regresión y clasificación
 - Tutorial 5: K-fold cross validation
 - Tutorial 6: Ridge y Lasso
+- Tutorial 7: CART, Bagging, Random Forest y Boosting
