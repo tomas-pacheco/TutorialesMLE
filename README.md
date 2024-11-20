@@ -12,3 +12,4 @@ Contenidos:
 - Tutorial 5: K-fold cross validation
 - Tutorial 6: Ridge y Lasso
 - Tutorial 7: CART, Bagging, Random Forest y Boosting
+- Tutorial 8: Componentes principales
